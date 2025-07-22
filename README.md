@@ -1,2 +1,3 @@
-# kp_dental
-Dental Group to promote "Core Values of Honesty &amp; Care"
+# KpDental
+
+Dental Group to promote [ <b>Core Values of "#Truth &gt;&lt; #Honesty &gt;&lt; #Care &gt;&lt;"</b> ].
