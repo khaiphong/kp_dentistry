@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_dentistry/target/debug/dentistry: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_dentistry/dentistry/src/main.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_dentistry/lib/src/lib.rs
